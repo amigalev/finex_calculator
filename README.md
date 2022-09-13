@@ -1,5 +1,5 @@
 # finex_calculator
-Unofficial Google Sheets API to use FinEx calculator
+Unofficial Google Sheets formulas to use FinEx calculator
 
 # Установка
 1. Откройте документ Google Sheets
